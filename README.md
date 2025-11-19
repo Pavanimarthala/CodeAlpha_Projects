@@ -14,7 +14,7 @@
  
  # Car Price Prediction 
 
-    Car price prediction  is amachine learning task where a model is trained to estimate the selling price of a car based on it's features such as brand, model year,mileage, fuel type,engine capacity,and other specificstions.
+    Car price prediction  is a machine learning task where a model is trained to estimate the selling price of a car based on it's features such as brand, model year,mileage, fuel type,engine capacity,and other specificstions.
 
 # 1 🛠️ Tools Used 
   # - Python
